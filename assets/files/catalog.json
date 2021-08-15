@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "01",
+      "name": "iphone 12 Pro",
+      "desc": "Apple iphone 12th generation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://www.phoneplacekenya.com/wp-content/uploads/2020/07/Apple-iPhone-12-Pro-c.jpg"
+    },
+    {
+      "id": "02",
+      "name": "Mi 10 pro",
+      "desc": "Xiaomi Mi 10 Pro 5G Android smartphone",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://news.maxabout.com/wp-content/uploads/2020/02/Xiaomi-Mi-10-Pro.jpg"
+    },
+    {
+      "id": "03",
+      "name": "Mi 9t pro",
+      "desc": "Features 6.39″ display, Snapdragon 855 chipset, 4000 mAh battery, ",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://media.karousell.com/media/photos/products/2019/10/30/xiaomi_mi_9t_pro_6128gb_1572418226_074d09120"
+    },
+    {
+      "id": "04",
+      "name": "Redmi note 10 pro",
+      "desc": "Features 6.43″ display, Snapdragon 678 chipset, 5000 mAh battery, ",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://phonesdata.com/files/models/Xiaomi-Redmi-Note-10-Pro-528.jpg"
+    }
+  ]
+}
